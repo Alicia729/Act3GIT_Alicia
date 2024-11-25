@@ -29,7 +29,18 @@ public class act3 {
             }
         }
 		
-		
+	    import java.util.Random;
+
+	    public class NumerosAleatorios {
+	        public static void main(String[] args) {
+	            Random random = new Random();
+
+	            for (int i = 0; i < 30; i++) {
+	                int numeroAleatorio = random.nextInt(); // Genera un número aleatorio entero
+	                System.out.println(numeroAleatorio);
+	            }
+	        }
+	    }
 		
 		
 		
