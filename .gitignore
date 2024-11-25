@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /bin/
+=======
+# Ignorar archivos .class
+*.class
+>>>>>>> branch 'main' of https://github.com/Alicia729/Act3GIT_Alicia.git
